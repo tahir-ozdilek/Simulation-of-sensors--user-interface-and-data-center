@@ -1,0 +1,34 @@
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\obj\Debug\clientQuestionsWinForm.csproj.AssemblyReference.cache
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\obj\Debug\clientQuestionsWinForm.csproj.GenerateResource.cache
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\obj\Debug\clientQuestionsWinForm.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.askedQuestions.resources
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\WindowsFormsApp1\obj\Debug\clientQuestionsWinForm.csproj.CopyComplete
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\obj\Debug\clientQuestionsWinForm.csproj.AssemblyReference.cache
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.askedQuestions.resources
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\obj\Debug\clientQuestionsWinForm.csproj.GenerateResource.cache
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\obj\Debug\clientQuestionsWinForm.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\obj\Debug\clientQuestionsWinForm.csproj.CopyComplete
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\storm\source\repos\thesis2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "dgSpecHash": "zuGnhBLcW2h+q2nIVjqK/vUiA9RbJS0Cw8VuVZRP64s/JFkZablJF7MaPhcfRHdiLliV05UgS0dQnTY8gAkuOg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\storm\\source\\repos\\thesis2\\WebApplication3\\clientQuestionsWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\storm\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.1\\microsoft.entityframeworkcore.design.5.0.1.nupkg.sha512",
+    "C:\\Users\\storm\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.1\\microsoft.entityframeworkcore.sqlserver.5.0.1.nupkg.sha512",
+    "C:\\Users\\storm\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.1\\microsoft.entityframeworkcore.tools.5.0.1.nupkg.sha512",
+    "C:\\Users\\storm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.1 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.EntityFrameworkCore.SqlServer 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 5.0.1 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.EntityFrameworkCore.Tools 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 5.0.1 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.EntityFrameworkCore.Design 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.1 is not compatible with net48 (.NETFramework,Version=v4.8) / win7-x86. Package Microsoft.EntityFrameworkCore.SqlServer 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 5.0.1 is not compatible with net48 (.NETFramework,Version=v4.8) / win7-x86. Package Microsoft.EntityFrameworkCore.Tools 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 5.0.1 is not compatible with net48 (.NETFramework,Version=v4.8) / win7-x86. Package Microsoft.EntityFrameworkCore.Design 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win7-x86"
+      ]
+    }
+  ]
+}

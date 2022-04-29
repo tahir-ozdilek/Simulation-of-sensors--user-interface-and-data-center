@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="databaseModelStoreContainer" CdmEntityContainer="databaseEntities">
+    <EntitySetMapping Name="C__RefactorLog">
+      <EntityTypeMapping TypeName="databaseModel.C__RefactorLog">
+        <MappingFragment StoreEntitySet="__RefactorLog">
+          <ScalarProperty Name="OperationKey" ColumnName="OperationKey" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="questions">
+      <EntityTypeMapping TypeName="databaseModel.questions">
+        <MappingFragment StoreEntitySet="questions">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="question" ColumnName="question" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="questionsAssignedToEachPerson">
+      <EntityTypeMapping TypeName="databaseModel.questionsAssignedToEachPerson">
+        <MappingFragment StoreEntitySet="questionsAssignedToEachPerson">
+          <ScalarProperty Name="FK_quesstionId" ColumnName="FK_quesstionId" />
+          <ScalarProperty Name="FK_userId" ColumnName="FK_userId" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="isAnswered" ColumnName="isAnswered" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sensors">
+      <EntityTypeMapping TypeName="databaseModel.Sensors">
+        <MappingFragment StoreEntitySet="Sensors">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SensorType" ColumnName="SensorType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="databaseModel.users">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="birthdate" ColumnName="birthdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="sensorsAssignedToEachPatient" TypeName="databaseModel.sensorsAssignedToEachPatient" StoreEntitySet="sensorsAssignedToEachPatient">
+      <EndProperty Name="Sensors">
+        <ScalarProperty Name="Id" ColumnName="sensorId" />
+      </EndProperty>
+      <EndProperty Name="users">
+        <ScalarProperty Name="Id" ColumnName="patientId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <FunctionImportMapping FunctionName="databaseModel.Store.getAssignedQuestions" FunctionImportName="getAssignedQuestions">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="databaseModel.getAssignedQuestions_Result">
+          <ScalarProperty Name="question" ColumnName="question" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SPaddPerson" FunctionName="databaseModel.Store.SPaddPerson" />
+    <FunctionImportMapping FunctionImportName="SPaskQuestionToPatient" FunctionName="databaseModel.Store.SPaskQuestionToPatient" />
+    <FunctionImportMapping FunctionImportName="SPassignSensorToPatient" FunctionName="databaseModel.Store.SPassignSensorToPatient" />
+  </EntityContainerMapping>
+</Mapping>

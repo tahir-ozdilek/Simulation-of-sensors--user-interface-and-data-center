@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\storm\OneDrive\Desktop\New folder</_PublishTargetUrl>
+    <History>True|2022-02-02T11:12:09.7963774Z;True|2022-02-02T14:06:32.8256648+03:00;True|2022-02-02T14:02:32.7920713+03:00;True|2022-02-02T14:00:31.0363374+03:00;True|2022-02-02T13:46:01.8962912+03:00;True|2022-02-02T13:43:40.1412886+03:00;True|2022-02-02T13:41:08.2091501+03:00;True|2022-02-02T13:34:37.6536817+03:00;True|2022-02-02T13:23:47.0471481+03:00;True|2022-02-02T00:07:48.0694196+03:00;True|2022-02-01T23:59:09.8910749+03:00;True|2022-02-01T23:58:08.6581374+03:00;True|2022-02-01T23:53:49.8887130+03:00;True|2022-02-01T23:53:45.6329139+03:00;True|2022-02-01T23:29:48.5096927+03:00;</History>
+  </PropertyGroup>
+</Project>

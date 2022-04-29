@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Questions";
+}
+@model IEnumerable<System.Data.DataRow>
+
+@{
+    Layout = null;
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Questions</h1>
+</div>
+
+
+
+@foreach (System.Data.DataRow row in Model)
+{
+<table>
+    <tr>
+        <td>@row.ItemArray[0].ToString()</td>
+        <td>@row.ItemArray[1].ToString()</td>
+    </tr>
+</table>
+}
+
+

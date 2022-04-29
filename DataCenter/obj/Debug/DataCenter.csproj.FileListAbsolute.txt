@@ -1,0 +1,93 @@
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\DataCenter.exe.config
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\DataCenter.exe
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\DataCenter.pdb
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\obj\Debug\DataCenter.csproj.AssemblyReference.cache
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\obj\Debug\DataCenter.Properties.Resources.resources
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\obj\Debug\DataCenter.csproj.GenerateResource.cache
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\obj\Debug\DataCenter.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\obj\Debug\DataCenter.exe
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\obj\Debug\DataCenter.pdb
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Newtonsoft.Json.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Newtonsoft.Json.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Buffers.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Memory.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Numerics.Vectors.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Text.Encodings.Web.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Text.Json.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.ValueTuple.dll
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Buffers.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Memory.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Numerics.Vectors.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Text.Encodings.Web.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Text.Json.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\bin\Debug\System.ValueTuple.xml
+D:\Belgelerim\Tahir\VisualStudio Repo\thesis2\DataCenter\obj\Debug\thesis_UI1.DataCenter.resources
+C:\Users\storm\source\repos\thesis2\DataCenter\obj\Debug\thesis_UI1.DataCenter.resources
+C:\Users\storm\source\repos\thesis2\DataCenter\obj\Debug\DataCenter.Properties.Resources.resources
+C:\Users\storm\source\repos\thesis2\DataCenter\obj\Debug\DataCenter.csproj.GenerateResource.cache
+C:\Users\storm\source\repos\thesis2\DataCenter\obj\Debug\DataCenter.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\DataCenter.exe.config
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\DataCenter.exe
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\DataCenter.pdb
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Buffers.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Memory.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Text.Json.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.ValueTuple.dll
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Buffers.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Memory.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Text.Json.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\bin\Debug\System.ValueTuple.xml
+C:\Users\storm\source\repos\thesis2\DataCenter\obj\Debug\DataCenter.csproj.CopyComplete
+C:\Users\storm\source\repos\thesis2\DataCenter\obj\Debug\DataCenter.exe
+C:\Users\storm\source\repos\thesis2\DataCenter\obj\Debug\DataCenter.pdb
+C:\Users\storm\source\repos\thesis2\DataCenter\obj\Debug\DataCenter.csproj.AssemblyReference.cache
